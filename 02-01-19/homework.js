@@ -23,3 +23,16 @@
  *	none!
  *
  *	Good luck!
+
+
+
+// SOLUTION:
+
+const hello = "Hello world!";
+ 
+var num = 10;
+ 
+var newNum = num - 5;
+
+var hi = "Hey";
+hi += "Name"; // res: HeyName
